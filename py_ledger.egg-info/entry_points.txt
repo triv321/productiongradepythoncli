@@ -1,0 +1,2 @@
+[console_scripts]
+ledger = py_ledger.cli:cli
