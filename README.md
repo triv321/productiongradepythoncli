@@ -78,7 +78,7 @@ Using the pytest-cov plugin, we measured our test coverage to ensure our tests w
 This tool is packaged to be easily installable via pip.
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/triv321/py_ledger_project\](https://github.com/triv321/py_ledger_project)  
+   git clone (https://github.com/triv321/py_ledger_project)  
    cd py-ledger
 
 2. **Create and activate a virtual environment:**  
