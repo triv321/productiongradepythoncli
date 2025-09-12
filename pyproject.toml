@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "py-ledger"
 version = "0.1.0"
 authors = [
-  { name="triv321", email="triv@example.com" },
+  { name="triv321", email="nahi_bataunga@nahibataunga.com" },
 ]
 description = "A ledger to manage your finances"
 readme = "README.md"
@@ -18,4 +18,5 @@ classifiers = [
 ]
 
 [project.scripts]
+
 ledger = "py_ledger.cli:cli"
