@@ -6,14 +6,14 @@ This repository documents a practice project developed to master the concepts fr
 
 ## **Table of Contents**
 
-1. [Overview](https://www.google.com/search?q=%23overview)  
-2. [Core Features](https://www.google.com/search?q=%23core-features)  
-3. [Architectural Design](https://www.google.com/search?q=%23architectural-design)  
-4. [Project Structure](https://www.google.com/search?q=%23project-structure)  
-5. [Robustness](https://www.google.com/search?q=%23robustness-and-automated-testing) and [Automated Testing](https://www.google.com/search?q=%23robustness-and-automated-testing)  
-6. [Installation and Usage](https://www.google.com/search?q=%23installation-and-usage)  
-7. [Command-Line Interface (CLI) Reference](https://www.google.com/search?q=%23command-line-interface-cli-reference)  
-8. [License](https://www.google.com/search?q=%23license)
+1. [Overview](#overview)  
+2. [Core Features](#core-features)  
+3. [Architectural Design](#architectural-design)  
+4. [Project Structure](#project-structure)  
+5. [Robustness](#robustness-and-automated-testing) and [Automated Testing](#robustness-and-automated-testing)  
+6. [Installation and Usage](#installation-and-usage)  
+7. [Command-Line Interface (CLI) Reference](#command-line-interface-cli-reference)  
+8. [License](#license)
 
 ## **Overview**
 
